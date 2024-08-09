@@ -17,8 +17,6 @@ setuptools.setup(
         'Bug Reports':
         'https://github.com/dandpz/wise_print/issues',
         'Source Code': 'https://github.com/dandpz/wise_print',
-        # 'Funding': '',
-        # 'Say Thanks!': '',
     },
     package_dir={'': 'src'},
     packages=setuptools.find_packages(where='src'),
@@ -39,6 +37,5 @@ setuptools.setup(
     python_requires='>=3.9',
     extras_require={
         'dev': ['check-manifest'],
-        # 'test': ['coverage'],
     },
 )
