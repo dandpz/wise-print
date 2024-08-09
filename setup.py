@@ -8,7 +8,7 @@ setuptools.setup(
     author='Daniele Dapuzzo',
     author_email='',
     description='Simple package to add info to print statements',
-    keywords='print, pypi, package',
+    keywords='print, pypi, package, logging',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/dandpz/wise_print',
@@ -22,10 +22,10 @@ setuptools.setup(
     packages=setuptools.find_packages(where='src'),
     classifiers=[
         # see https://pypi.org/classifiers/
-        'Development Status :: 5 - Production/Stable',
+        'Development Status :: 4 - Beta',
 
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Build Tools',
+        'Topic :: Software Development :: Logging :: Print',
 
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
