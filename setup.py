@@ -25,7 +25,9 @@ setuptools.setup(
         'Development Status :: 4 - Beta',
 
         'Intended Audience :: Developers',
-        'Topic :: Software Development :: Logging :: Print',
+        'Topic :: Software Development :: Libraries',
+        'Topic :: Software Development :: Logging',
+        'Topic :: Software Development :: Utilities',
 
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
