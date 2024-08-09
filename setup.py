@@ -26,8 +26,7 @@ setuptools.setup(
 
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries',
-        'Topic :: Software Development :: Logging',
-        'Topic :: Software Development :: Utilities',
+        'Topic :: Software Development :: Debuggers',
 
         'Programming Language :: Python :: 3.9',
         'Programming Language :: Python :: 3.10',
