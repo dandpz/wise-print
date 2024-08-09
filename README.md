@@ -1,7 +1,7 @@
 # Wise Print
 
 <p align="left">
-  <a href="https://pypi.python.org/pypi/chart"><img alt="PyPI" src="https://img.shields.io/pypi/v/wise_print.svg"></a>
+  <a href="https://pypi.python.org/pypi/wise_print"><img alt="PyPI" src="https://img.shields.io/pypi/v/wise_print.svg"></a>
 </p>
 
 `wise_print` is a lightweight Python package designed to enhance the debugging process in small scripts. It provides a customizable replacement for the built-in `print` function, allowing you to include additional contextual information in your output without the need for a full-fledged logging package.
