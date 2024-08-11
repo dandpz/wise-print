@@ -11,12 +11,12 @@ setuptools.setup(
     keywords='print, pypi, package, logging',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/dandpz/wise_print',
+    url='https://github.com/dandpz/wise-print',
     project_urls={
-        'Documentation': 'https://github.com/dandpz/wise_print',
+        'Documentation': 'https://github.com/dandpz/wise-print',
         'Bug Reports':
-        'https://github.com/dandpz/wise_print/issues',
-        'Source Code': 'https://github.com/dandpz/wise_print',
+        'https://github.com/dandpz/wise-print/issues',
+        'Source Code': 'https://github.com/dandpz/wise-print',
     },
     package_dir={'': 'src'},
     packages=setuptools.find_packages(where='src'),
